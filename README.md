@@ -15,7 +15,7 @@
 - 研究・業務の補助ツール
 - 展示・アーカイブ関連の実験的ツール
 
-### 外に出している場所
+### 発信先
 
 - note: [akitectura](https://note.com/akitectura) — 日々思ったことなど
 - Researchmap: [鈴木明世](https://researchmap.jp/suzuki_akiyo) — 研究者としてのページ
