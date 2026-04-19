@@ -15,6 +15,12 @@
 - 研究・業務の補助ツール
 - 展示・アーカイブ関連の実験的ツール
 
+使ってみて、バグなどがあればできる限り改善したいので、ご報告いただけると嬉しいです。
+
+[バグ報告フォーム](https://forms.gle/xbFPpLLtWCFpMYVS6)
+
+※Githubアカウントユーザーは、Issuesからの報告でも構いません。
+
 ### 発信先
 
 - note: [akitectura](https://note.com/akitectura) — 日々思ったことなど
