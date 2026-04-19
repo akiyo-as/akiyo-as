@@ -1,16 +1,26 @@
-## Hi there 👋
+## AKIYO SUZUKI（鈴木　明世）
 
-<!--
-**akiyo-as/akiyo-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+北海道の博物館で学芸員として働いています。建築史が専門です。
 
-Here are some ideas to get you started:
+### このアカウントで公開しているもの
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+研究・展示・発信をする立場（＝学芸員）として、**研究や展示作業などを便利にするツール**を公開しています。
+
+自分の作業を少しラクにしたくて作ったものが中心で、エンジニアでもなく、自分のために書いたものを参考になりそうなら公開している、という温度感です。
+
+動作保証やサポートはしていません。不具合は Issues に書いてもらえると気づきやすいです。
+
+今後、以下のようなものが公開されていく予定です。
+
+- 研究・業務の補助ツール
+- 展示・アーカイブ関連の実験的ツール
+
+### 外に出している場所
+
+- note: [akitectura](https://note.com/akitectura) — 日々思ったことなど
+- Researchmap: [鈴木明世](https://researchmap.jp/suzuki_akiyo) — 研究者としてのページ
+
+---
+
+*Museum curator & architectural historian based in Hokkaido, Japan.*
+*Building small tools for research, exhibitions, and everyday workflows.*
